@@ -1,2 +1,1 @@
-# RPDM
-Data management using R programming
+Data management using Python programming
